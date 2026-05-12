@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Masjid Jaza Bandung illustration</title>
+  <desc id="desc">A warm green and gold mosque illustration for the Masjid Jaza landing page.</desc>
+  <rect width="1200" height="760" fill="#183f35"/>
+  <path d="M0 540h1200v220H0z" fill="#f6efe2"/>
+  <path d="M0 0h1200v760H0z" fill="#102f2a" opacity=".42"/>
+  <g opacity=".11" fill="#d9b85c">
+    <path d="M0 90h1200v18H0z"/>
+    <path d="M0 178h1200v10H0z"/>
+    <path d="M0 658h1200v22H0z"/>
+  </g>
+  <g transform="translate(146 148)">
+    <path d="M78 392V166c0-44 36-80 80-80s80 36 80 80v226z" fill="#d9b85c"/>
+    <path d="M344 392V196c0-104 84-188 188-188s188 84 188 188v196z" fill="#eadfc8"/>
+    <path d="M804 392V86c0-42 34-76 76-76s76 34 76 76v306z" fill="#d9b85c"/>
+    <path d="M32 392h968v24H32z" fill="#fffaf0"/>
+    <path d="M396 392V222c0-76 61-138 136-138s136 62 136 138v170z" fill="#c9993a" opacity=".35"/>
+    <circle cx="532" cy="52" r="28" fill="#d9b85c"/>
+  </g>
+  <g fill="#fffaf0" opacity=".9">
+    <circle cx="142" cy="118" r="5"/>
+    <circle cx="1020" cy="122" r="4"/>
+    <circle cx="1090" cy="196" r="6"/>
+    <circle cx="250" cy="96" r="4"/>
+  </g>
+</svg>

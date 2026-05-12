@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="960" viewBox="0 0 1400 960" role="img" aria-labelledby="title desc">
+  <title id="title">Masjid Jaza MVP layout concepts</title>
+  <desc id="desc">Five visual wireframe layout options for the Masjid Jaza mosque MVP.</desc>
+  <defs>
+    <style>
+      .bg{fill:#f6efe2}.ink{fill:#102f2a}.green{fill:#183f35}.green2{fill:#276052}.gold{fill:#d9b85c}.gold2{fill:#c9993a}.cream{fill:#fffaf0}.muted{fill:#68726b}.line{stroke:#d8cdb6;stroke-width:2;fill:none}.screen{fill:#fffaf0;stroke:#d8cdb6;stroke-width:2}.label{font:700 28px Arial,sans-serif;fill:#102f2a}.small{font:600 16px Arial,sans-serif;fill:#68726b}.tiny{font:700 12px Arial,sans-serif;fill:#68726b}.white{fill:#fffaf0}.num{font:800 20px Arial,sans-serif;fill:#102f2a}
+    </style>
+  </defs>
+  <rect class="bg" width="1400" height="960"/>
+  <text x="64" y="72" font-family="Arial,sans-serif" font-size="46" font-weight="800" class="ink">Masjid Jaza MVP layout concepts</text>
+  <text x="64" y="110" class="small">Same color palette, different information priorities.</text>
+
+  <g transform="translate(64 150)">
+    <rect class="screen" width="380" height="310" rx="16"/>
+    <rect class="green" x="0" y="0" width="380" height="86" rx="16"/>
+    <text x="28" y="48" font-family="Arial,sans-serif" font-size="24" font-weight="800" class="white">1. Prayer-first</text>
+    <text x="28" y="116" class="tiny">TODAY'S PRAYERS</text>
+    <rect class="gold" x="28" y="136" width="96" height="70" rx="10"/>
+    <rect class="cream" x="142" y="136" width="96" height="70" rx="10" stroke="#d8cdb6"/>
+    <rect class="cream" x="256" y="136" width="96" height="70" rx="10" stroke="#d8cdb6"/>
+    <text x="50" y="177" class="num">Subuh</text>
+    <text x="164" y="177" class="num">Dzuhur</text>
+    <text x="280" y="177" class="num">Ashar</text>
+    <rect class="green2" x="28" y="230" width="324" height="44" rx="8"/>
+    <text x="138" y="258" font-family="Arial,sans-serif" font-size="16" font-weight="800" class="white">Verify location</text>
+  </g>
+
+  <g transform="translate(510 150)">
+    <rect class="screen" width="380" height="310" rx="16"/>
+    <rect class="green" x="0" y="0" width="380" height="112" rx="16"/>
+    <text x="28" y="48" font-family="Arial,sans-serif" font-size="24" font-weight="800" class="white">2. Transparency-first</text>
+    <rect class="gold" x="28" y="78" width="130" height="22" rx="11"/>
+    <rect class="cream" x="28" y="136" width="324" height="74" rx="10" stroke="#d8cdb6"/>
+    <text x="48" y="166" class="num">Weekly sadaqah usage</text>
+    <text x="48" y="192" class="small">Operational report card</text>
+    <rect class="cream" x="28" y="228" width="150" height="50" rx="10" stroke="#d8cdb6"/>
+    <rect class="cream" x="202" y="228" width="150" height="50" rx="10" stroke="#d8cdb6"/>
+  </g>
+
+  <g transform="translate(956 150)">
+    <rect class="screen" width="380" height="310" rx="16"/>
+    <rect class="green" x="0" y="0" width="380" height="70" rx="16"/>
+    <text x="28" y="45" font-family="Arial,sans-serif" font-size="24" font-weight="800" class="white">3. Wallet-style</text>
+    <rect class="gold" x="28" y="94" width="324" height="98" rx="14"/>
+    <text x="50" y="132" class="num">Rp 75.000</text>
+    <text x="50" y="160" class="tiny">THIS MONTH SADAQAH</text>
+    <rect class="green2" x="28" y="214" width="148" height="58" rx="10"/>
+    <rect class="cream" x="204" y="214" width="148" height="58" rx="10" stroke="#d8cdb6"/>
+    <text x="66" y="250" font-family="Arial,sans-serif" font-size="18" font-weight="800" class="white">Voucher</text>
+    <text x="246" y="250" class="num">Streak</text>
+  </g>
+
+  <g transform="translate(64 540)">
+    <rect class="screen" width="604" height="310" rx="16"/>
+    <rect class="green" width="604" height="64" rx="16"/>
+    <text x="28" y="42" font-family="Arial,sans-serif" font-size="24" font-weight="800" class="white">4. Admin console</text>
+    <rect class="cream" x="28" y="92" width="160" height="64" rx="10" stroke="#d8cdb6"/>
+    <rect class="cream" x="222" y="92" width="160" height="64" rx="10" stroke="#d8cdb6"/>
+    <rect class="cream" x="416" y="92" width="160" height="64" rx="10" stroke="#d8cdb6"/>
+    <line class="line" x1="28" y1="194" x2="576" y2="194"/>
+    <line class="line" x1="28" y1="232" x2="576" y2="232"/>
+    <line class="line" x1="28" y1="270" x2="576" y2="270"/>
+    <rect class="gold" x="442" y="248" width="134" height="34" rx="8"/>
+    <text x="466" y="270" class="tiny">Publish report</text>
+  </g>
+
+  <g transform="translate(732 540)">
+    <rect class="screen" width="604" height="310" rx="16"/>
+    <rect class="green" width="604" height="310" rx="16"/>
+    <text x="28" y="46" font-family="Arial,sans-serif" font-size="24" font-weight="800" class="white">5. Mosque kiosk</text>
+    <rect class="cream" x="48" y="82" width="220" height="180" rx="12"/>
+    <rect class="gold" x="336" y="96" width="188" height="70" rx="12"/>
+    <rect class="cream" x="336" y="192" width="188" height="50" rx="10"/>
+    <path d="M90 124h136v96H90zM112 146h34v34h-34zM170 146h34v34h-34zM112 194h34v10h-34zM170 194h34v26h-34z" fill="#183f35"/>
+    <text x="374" y="139" class="num">Scan / Check in</text>
+    <text x="374" y="224" class="tiny">Voucher validation</text>
+  </g>
+</svg>
